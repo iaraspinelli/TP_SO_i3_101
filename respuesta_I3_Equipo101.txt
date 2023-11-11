@@ -20,4 +20,13 @@ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
     No tuvimos ningun problemas, utilizamos -> git merge Cruz.
 
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?  
-    Usamos el comando ifconfig > archivo.txt.
+    Usamos el comando ifconfig > beta.txt
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+1-git pull 
+2-ifconfig > beta.txt
+3-git add .
+4-git commit -m "alfa"
+5-git push

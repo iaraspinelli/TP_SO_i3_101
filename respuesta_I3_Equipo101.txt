@@ -1,0 +1,12 @@
+Responde BETA:
+
+a-¿Como queda El master después de estos cambios?
+    El master quedo con los archivos creados y editados, tal cual se había realizado en la rama "spinelli", para lo cual previamente se hizo el merge y push en la rama master.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+    Sí, BETA pudo ver todos los cambios que se realizaron. 
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+    BETA escribió el comando:
+            git merge Cruz
+    en la terminal de Visual, ubicandose en la rama master.

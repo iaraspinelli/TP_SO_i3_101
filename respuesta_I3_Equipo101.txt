@@ -10,3 +10,14 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
     BETA escribió el comando:
             git merge Cruz
     en la terminal de Visual, ubicandose en la rama master.
+
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+    No solo la BETA tiene los ultimos cambios.
+
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+    No tuvimos ningun problemas, utilizamos -> git merge Cruz.
+
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?  
+    Usamos el comando ifconfig > archivo.txt.
